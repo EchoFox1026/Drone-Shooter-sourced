@@ -1,0 +1,20 @@
+{
+  "short_name": "Drone Shooter",
+  "name": "Drone Shooter",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-large.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#000627",
+  "display": "standalone",
+  "theme_color": "#000627"
+}
